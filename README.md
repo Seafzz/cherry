@@ -45,3 +45,7 @@ The data is provided under an NDA and should be shared only with authorized pers
 
 ### Project Outcome
 The client needs to visually differentiate healthy leaves from infected ones and predict the health status of leaves through the dashboard.
+
+### Model Inputs and Outputs
+- Input: Cherry leaf image
+- Output: Prediction of leaf health (healthy or powdery mildew)
