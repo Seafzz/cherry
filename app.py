@@ -7,6 +7,7 @@ from app_pages.page_hypothesis import hypothesis_page
 from app_pages.page_data_visualizer import visual_page
 from app_pages.page_data_prediction import prediction_page
 from app_pages.page_performance import performance_page
+from app_pages.page_feedback import feedback_page
 
 # Initialize the app
 app = MultiPage(app_name='Cherry Leaves')
@@ -17,6 +18,7 @@ app.add_page("Hypothesis", hypothesis_page)
 app.add_page("Data Visualizer", visual_page)
 app.add_page("Prediction", prediction_page)
 app.add_page("Performance", performance_page)
+app.add_page("Feedback", feedback_page)
 
 # Run the app
 app.run()
