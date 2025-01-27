@@ -35,3 +35,11 @@ The hypothesis is that infected leaves show a powdery white layer on their surfa
 ## machine Learning Business Case
 ### Business Requirements
 The clien needs a tool to indentify healthy leaves from those who with powedery mildew. ML can distinguish between these images if trained to an acceptable level.
+
+### Dashboard or API Endpoint?
+The client requires a dashboard.
+
+
+### Privacy Concerns
+The data is provided under an NDA and should be shared only with authorized personnel.
+
