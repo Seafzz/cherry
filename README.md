@@ -49,3 +49,6 @@ The client needs to visually differentiate healthy leaves from infected ones and
 ### Model Inputs and Outputs
 - Input: Cherry leaf image
 - Output: Prediction of leaf health (healthy or powdery mildew)
+
+### Model Criteria
+The model should achieve an accuracy of 97%, though it has been trained to 98%.
