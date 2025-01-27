@@ -63,3 +63,10 @@ The client will avoid supplying compromised products and can scale up operations
 - **Live Prediction**: Upload images to get health predictions and probability.
 - **Hypothesis**: Project hypothesis and validation.
 - **Model Performance**: Technical details and performance metrics.
+
+
+#### Deployment Steps:
+1. Log in to Heroku and create an app.
+2. Select GitHub as the deployment method.
+3. Connect to your repository and deploy the branch.
+4. Click "Open App" to access your 
