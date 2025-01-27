@@ -1,19 +1,16 @@
-# Exclude large datasets
 inputs/cherry_dataset/cherry-leaves/test/*
 inputs/cherry_dataset/cherry-leaves/train/*
 inputs/cherry_dataset/cherry-leaves/validation/*
 inputs/cherry-leaves/healthy
 inputs/cherry-leaves/powdery_mildew
-
-
-# Exclude GitHub and Devcontainer directories
+jupyter_notebooks/*
 .github/ISSUE_TEMPLATE
 .devcontainer
-
-# Exclude logs and cache
 logs/
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+.git/
+
 
