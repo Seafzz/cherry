@@ -79,3 +79,4 @@ The client will avoid supplying compromised products and can scale up operations
 
 ## Acknowledgements
 Thanks to my mentor for the support and guidance.
+Fernando Doreto - for the walktrough that made it possible to use quite alot of steps to get through the project.
