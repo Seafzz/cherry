@@ -15,3 +15,8 @@ The IT team proposed an ML system that can detect powder mildrew instantly in le
 1. Conduct a study to visually differentiate healthy cherry leaves from those with the powdery mildew.
 2. Predict whether a cherry leaf is healthy or has powdery mildew.
 
+## Hypothesis and Validation
+The hypothesis is that infected leaves show a powdery white layer on their surface. This will be validated by:
+- collecting an image dataset from the client
+- Creating an image montage for healthy and infected leaves.
+- Performing average image analysis
