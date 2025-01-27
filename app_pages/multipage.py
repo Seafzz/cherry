@@ -15,3 +15,4 @@ class MultiPage:
         st.sidebar.title(self.app_name)
         page = st.sidebar.radio('Select a page:', self.pages, format_func=lambda page: page['title'])
         page['function']()
+
