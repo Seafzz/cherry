@@ -56,3 +56,10 @@ The model should achieve an accuracy of 97%, though it has been trained to 98%.
 
 ### Client Benefits
 The client will avoid supplying compromised products and can scale up operations by minimizing manual work.
+
+## Dashboard Design
+- **Project Summary**: Overview and client requirements.
+- **Findings**: Study differentiating healthy and infected leaves.
+- **Live Prediction**: Upload images to get health predictions and probability.
+- **Hypothesis**: Project hypothesis and validation.
+- **Model Performance**: Technical details and performance metrics.
