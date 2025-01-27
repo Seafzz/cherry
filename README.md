@@ -30,3 +30,8 @@ The hypothesis is that infected leaves show a powdery white layer on their surfa
 ## Requirements 2
 - An ML system to predict the health of a cherry leaf.
 - A dashboard with an image montage prediciton feature.
+
+
+## machine Learning Business Case
+### Business Requirements
+The clien needs a tool to indentify healthy leaves from those who with powedery mildew. ML can distinguish between these images if trained to an acceptable level.
