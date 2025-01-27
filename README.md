@@ -20,3 +20,13 @@ The hypothesis is that infected leaves show a powdery white layer on their surfa
 - collecting an image dataset from the client
 - Creating an image montage for healthy and infected leaves.
 - Performing average image analysis
+
+## Mapping Business Requirements to Tasks 
+### Requirement 1
+- Analysis of average images and variablility images for each class.
+- Different between average healthy and powdery mildew-affected leaves.
+- an image montage for each class.
+
+## Requirements 2
+- An ML system to predict the health of a cherry leaf.
+- A dashboard with an image montage prediciton feature.
