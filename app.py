@@ -16,3 +16,5 @@ app.add_page("Hypothesis", hypothesis_page)
 app.add_page("Data Visualizer", visual_page)
 app.add_page("Data Prediction", prediction_page)
 app.add_page("Performance", performance_page)
+
+app.run()
