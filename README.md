@@ -52,3 +52,7 @@ The client needs to visually differentiate healthy leaves from infected ones and
 
 ### Model Criteria
 The model should achieve an accuracy of 97%, though it has been trained to 98%.
+
+
+### Client Benefits
+The client will avoid supplying compromised products and can scale up operations by minimizing manual work.
