@@ -70,3 +70,12 @@ The client will avoid supplying compromised products and can scale up operations
 2. Select GitHub as the deployment method.
 3. Connect to your repository and deploy the branch.
 4. Click "Open App" to access your 
+
+## Credits
+- Data modeling and visualization by Code Institute lessons.
+- Dashboard and README templates by 
+- Code along lessons with by Code insititute lessons.
+- co-pilot for help with debuging when necesary.
+
+## Acknowledgements
+Thanks to my mentor for the support and guidance.
