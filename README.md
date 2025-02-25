@@ -72,8 +72,7 @@ The client will avoid supplying compromised products and can scale up operations
 4. Click "Open App" to access your 
 
 ## Credits
-- Data modeling and visualization by Code Institute lessons.
-- Dashboard and README templates by 
+- Data modeling and visualization by Code Institute lessons. 
 - Code along lessons with by Code insititute lessons.
 - co-pilot for help with debuging when necesary.
 
